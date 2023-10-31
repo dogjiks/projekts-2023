@@ -14,26 +14,25 @@ body{
     background: #C0C0C0;
 }
 #navi{
-    width: 1200px;
+    width: 1199px;
     min-height: 50px;
     background: #A77373;
 }
 #content{
     width: 1200px;
     min-height: 800px;
-    background: #858585;
+    background: #EC6868;
 }
 .navButton{
-    width: 300px;
+    width: 299px;
     text-align: center;
     font-size: 16pt;
     height: 50px;
-    background-color:#acacac;
+    background-color:rgb(216, 49, 160);
     line-height:2.4;
     text-transform: uppercase;
     float:left;
     color:#fff
-    
     
 }
 
@@ -80,12 +79,12 @@ a:visited{
 .login{
     position: relative;
     width: 350px;
-    height: 200px;
+    height: 300px;
     background-color: #ffffff;
     margin: 0 auto;
-    top: 35px;
+    top: 200px;
     padding: 10px 20px 20px 10px;
-    background-color:#C0C0C0;
+    background-color:rgb(238, 192, 223);
 }
 input.login{
     padding: 5px;
@@ -120,35 +119,20 @@ input.login{
 	top:1px;
 }
 .boxi{
-    height: 20px;
-    position: relative;
-    margin: auto;
-    display: block;
     padding: 10px;
-    margin-top: 15px;
-
-    
-    
+    margin-top: 10px;
+    margin-bottom: 10px;
     
 }
 
 .myButton{
-    height: 40px;
-    width: 100px;
     position: relative;
-    margin: auto;
-    display: block;
-    border-radius: 5px;
-    margin-top: -10px;
-    background-color: #14ff91;
-   
-    
-
 }
 
 .forma{
     
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -166,3 +150,5 @@ input.login{
     
 }
 >>>>>>> fadfab48214b43f379d2b776e586333f99328386
+=======
+>>>>>>> parent of fadfab4 (uzlabojumi)
